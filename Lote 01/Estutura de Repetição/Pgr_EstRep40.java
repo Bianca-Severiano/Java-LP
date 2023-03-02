@@ -22,7 +22,7 @@ public class Pgr_EstRep40 {
             menor = valor1;
         }
         
-        // Verifica e printa primos entre os valores
+     
 
        
     }
